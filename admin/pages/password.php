@@ -64,7 +64,7 @@ if(hasnt_password() == 0){
                 </div>
                 <center>
                     <button type="submit" name="submit" class="btn light-blue waves-effect waves-light">
-                        <i class="material-icons left">perm_identity</i>
+                        <i class="material-icons left">submit</i>
                         Se connecter
                     </button>
                 </center>
